@@ -19,8 +19,7 @@
 
 # Screenshot
 
-[VSCode Explanation](https://youtu.be/9eJBLWz5IWg)
-[Insomnia Explanation](https://youtu.be/Qrs9jhaJ8cQ)
+<img src="public\images\screenshot.png" alt="Screenshot of the budget tracker">
 
 # Questions
 
