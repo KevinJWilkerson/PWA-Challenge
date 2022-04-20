@@ -6,16 +6,8 @@
 
 ## Table of Contents
 
-- [Installation](#Installation)
-- [Explanation](#explanation)
+- [Screenshot](#screenshot)
 - [Questions](#questions)
-
-# Installation
-
-- In order to run this application you first need to:
-  - Download and install Node.js
-  - Clone this repository to your local machine
-  - Install the necessary Node modules (express, mysql2, sequelize and dotenv) within that repository
 
 # Screenshot
 
